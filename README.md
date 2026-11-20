@@ -24,7 +24,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/profile.jpg" width="200" height="200" alt="Abinivesh M" style="border-radius: 50%; object-fit: cover; border: 3px solid #3B82F6;" />
+  <img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/profile.jpg" width="160" height="160" alt="Abinivesh M" />
 </p>
 
 <p align="center">
