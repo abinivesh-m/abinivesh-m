@@ -208,4 +208,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:2563EB,100:1E3A8A&height=140&section=footer" width="100%" alt="Footer" />
 </p>
 
-<!-- Updated -->
+<!-- Updated v2 -->
