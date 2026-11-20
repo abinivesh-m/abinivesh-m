@@ -23,20 +23,29 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/profile.jpg" width="160" height="160" alt="Abinivesh M" />
-</p>
+<table align="center">
+<tr>
 
-<p align="center">
-  <b>🎓 B.E. Electronics & Communication Engineering</b> @ Sri Krishna College of Engineering and Technology (SKCET), Coimbatore<br>
-  <b>📊 CGPA:</b> 9.1/10 · <b>4th Semester</b><br>
-  <b>🏆 3× Hackathon Winner</b> · <b>2× IIT Finalist & Team Leader</b><br>
-  <b>🎖️ Google Student Ambassador</b> – Top Prompt Creator<br>
-  <b>🤖 AI Product Engineer & SDE</b> — I build AI products that solve real problems<br>
-  <b>🛠️ End-to-end:</b> Flutter · FastAPI · LLMs · AWS · PostgreSQL<br>
-  <b>📍 Based in</b> Namakkal, Tamil Nadu, India<br>
-  <b>✨ Always chasing</b> the next idea worth building.
-</p>
+<td width="65%" valign="top">
+
+- 🎓 **B.E. Electronics & Communication Engineering** @ Sri Krishna College of Engineering and Technology (SKCET), Coimbatore
+- 📊 **CGPA:** 9.1/10 · **4th Semester**
+- 🏆 **3× Hackathon Winner** · **2× IIT Finalist & Team Leader**
+- 🎖️ **Google Student Ambassador – Top Prompt Creator**
+- 🤖 **AI Product Engineer & SDE** — I build AI products that solve real problems
+- 🛠️ End-to-end: **Flutter · FastAPI · LLMs · AWS · PostgreSQL**
+- 📍 Based in Namakkal, Tamil Nadu, India
+- ✨ Always chasing the next idea worth building.
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/profile.jpg" width="160" height="160" alt="Abinivesh M" />
+
+</td>
+
+</tr>
+</table>
 
 
 <h2 align="center">💻 Tech Stack</h2>
