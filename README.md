@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=3B82F6&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=AI+Product+Engineer+%26+SDE;ECE+%40+SKCET;3x+Hackathon+Winner;2x+IIT+Finalist+%26+Team+Leader;Google+Student+Ambassador"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=3B82F6&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=AI+Product+Engineer+%26+SDE;ECE+%40+SKCET;3x+Hackathon+Winner;2x+IIT+Finalist+%26+Team+Leader;HackerRank+Campus+Crew"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 - 🎓 **B.E. Electronics & Communication Engineering** @ Sri Krishna College of Engineering and Technology (SKCET), Coimbatore
 - 📊 **CGPA:** 9.1/10 · **4th Semester**
 - 🏆 **3× Hackathon Winner** · **2× IIT Finalist & Team Leader**
-- 🎖️ **Google Ambassador Program – Top Prompt Creator**
+- 🎖️ **HackerRank Campus Crew – Organizing coding events & contests**
 - 🤖 **AI Product Engineer & SDE** — I build AI products that solve real problems
 - 🛠️ End-to-end: **Flutter · FastAPI · LLMs · AWS · PostgreSQL**
 - 📍 Based in Namakkal, Tamil Nadu, India
