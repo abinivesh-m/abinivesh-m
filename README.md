@@ -14,15 +14,12 @@
   <a href="https://linkedin.com/in/abinivesh-m-883052380" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://leetcode.com/u/Abinivesh__M/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black&amp;labelColor=0a0a0a" alt="LeetCode" />
   </a>
-  &nbsp;
   <a href="mailto:abinivesh.1203@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0a0a0a" alt="Email" />
   </a>
-  &nbsp;
   <a href="https://github.com/abinivesh-m" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&amp;logo=github&amp;logoColor=3B82F6&amp;labelColor=0a0a0a" alt="GitHub" />
   </a>
@@ -44,7 +41,6 @@
 
 <table align="center">
 <tr>
-
 <td width="65%" valign="top">
 
 - 🎓 **B.E. Electronics &amp; Communication Engineering** @ Sri Krishna College of Engineering and Technology (SKCET), Coimbatore
@@ -105,7 +101,6 @@
   <a href="https://leetcode.com/u/Abinivesh__M/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black&amp;labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Abinivesh__M/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-113-3B82F6?style=for-the-badge&amp;logo=target&amp;logoColor=white&amp;labelColor=0a0a0a" alt="Problems Solved" />
   </a>
@@ -152,7 +147,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=abinivesh-m&amp;show_icons=true&amp;bg_color=0a0a0a&amp;title_color=3b82f6&amp;text_color=f3f4f6&amp;icon_color=3b82f6&amp;border_color=3b82f6&amp;border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abinivesh-m&amp;layout=compact&amp;bg_color=0a0a0a&amp;title_color=3b82f6&amp;text_color=f3f4f6&amp;border_color=3b82f6&amp;border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
@@ -190,7 +184,7 @@
   <sub><b>Professional Network</b></sub>
 </td>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="https://leetcode.com/u/Abinivesh__M/" target="_blank">
+  <a href="https://leetcode.com/u/Abinivesh__M/">
     <img src="https://skillicons.dev/icons?i=leetcode" width="60" height="60" alt="LeetCode" />
     <br /><br />
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black&amp;labelColor=0a0a0a" alt="LeetCode" />
