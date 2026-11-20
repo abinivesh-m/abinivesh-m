@@ -86,7 +86,7 @@
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <img src="https://github.com/abinivesh-m/abinivesh-m/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
