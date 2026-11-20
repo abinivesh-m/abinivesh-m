@@ -31,7 +31,7 @@
 - 🎓 **B.E. Electronics & Communication Engineering** @ Sri Krishna College of Engineering and Technology (SKCET), Coimbatore
 - 📊 **CGPA:** 9.1/10 · **4th Semester**
 - 🏆 **3× Hackathon Winner** · **2× IIT Finalist & Team Leader**
-- 🎖️ **Google Student Ambassador – Top Prompt Creator**
+- 🎖️ **Google Ambassador Program – Top Prompt Creator**
 - 🤖 **AI Product Engineer & SDE** — I build AI products that solve real problems
 - 🛠️ End-to-end: **Flutter · FastAPI · LLMs · AWS · PostgreSQL**
 - 📍 Based in Namakkal, Tamil Nadu, India
