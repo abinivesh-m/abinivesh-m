@@ -21,11 +21,12 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
 
-      - name: Commit results
+      - name: Commit and push results
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add output/
           git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
