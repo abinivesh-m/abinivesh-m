@@ -1,29 +1,130 @@
-# Abinivesh M
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/art/header-dark.png">
+    <img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/art/header-light.png" alt="Abinivesh M Banner" width="100%">
+  </picture>
+</p>
 
-ECE student at SKCET, Coimbatore. I build and ship software — mostly AI products that solve a problem I can actually see.
+<h1 align="center">
+  Hey there, I'm <span style="color:#3B82F6;">Abinivesh M</span>
+</h1>
 
-**Currently building:** [NexusShield](https://github.com/abinivesh-m/Nexus-Shield) — scam detection for Indian students, with signed verification receipts that can be revoked when an offer turns out to be fake.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=3B82F6&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=AI+Product+Engineer+%26+SDE;ECE+%40+SKCET;3x+Hackathon+Winner;2x+IIT+Finalist+%26+Team+Leader;Google+Student+Ambassador"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/followers/abinivesh-m?style=for-the-badge&logo=github&label=Followers&color=3B82F6" />
+  <img src="https://img.shields.io/github/stars/abinivesh-m?style=for-the-badge&logo=github&label=Stars&color=3B82F6" />
+  <img src="https://komarev.com/ghpvc/?username=abinivesh-m&style=for-the-badge&color=3B82F6"/>
+</p>
 
-### Flagship
 
-**[NexusShield](https://github.com/abinivesh-m/Nexus-Shield)** · Flutter · FastAPI · PostgreSQL · Gemini
-Scores internship and job offers 0–100, explains every red flag, and verifies the employer's domain. Every verdict is HMAC-SHA256 signed, publicly checkable without an account, and retroactively revocable. 38 backend tests, CI builds the Android APK.
-→ [Download the APK](https://github.com/abinivesh-m/Nexus-Shield/releases/latest) · [Source](https://github.com/abinivesh-m/Nexus-Shield)
 
-### Other things I've built
+<h2 align="center">👨‍💻 About Me</h2>
 
-- **[TrackX](https://github.com/abinivesh-m/TrackX)** — ANPR vehicle tracking: trained detector, FastAPI service, web dashboard.
-- **[SkillNexus AI](https://github.com/abinivesh-m/Skillnexus-ai)** — six-agent career orchestration platform. 1st place, PromptWars × RTC GDC Hackathon 2026.
-- **[waterlog-watch](https://github.com/abinivesh-m/waterlog-watch)** — crowd-sourced, AI-verified street flooding alerts. Flutter + AWS serverless.
-- **[dejavu](https://github.com/abinivesh-m/dejavu)** — on-call SRE agent with long-term incident memory.
-- **[best-before](https://github.com/abinivesh-m/best-before)** — gives every AI answer an expiry date by re-verifying its claims.
+<table align="center">
+<tr>
 
-### Stack
+<td width="65%" valign="top">
 
-Python · Dart · FastAPI · Flutter · PostgreSQL · SQLAlchemy · JWT · HMAC · Gemini · GitHub Actions · Vercel
+- 🎓 **B.E. Electronics & Communication Engineering** @ Sri Krishna College of Engineering and Technology (SKCET), Coimbatore
+- 📊 **CGPA:** 9.1/10 · **4th Semester**
+- 🏆 **3× Hackathon Winner** · **2× IIT Finalist & Team Leader**
+- 🎖️ **Google Student Ambassador – Top Prompt Creator**
+- 🤖 **AI Product Engineer & SDE** — I build AI products that solve real problems
+- 🛠️ End-to-end: **Flutter · FastAPI · LLMs · AWS · PostgreSQL**
+- 📍 Based in Namakkal, Tamil Nadu, India
+- ✨ Always chasing the next idea worth building.
+</td>
 
-### Find me
+<td width="35%" align="center" valign="middle">
 
-[GitHub](https://github.com/abinivesh-m) · [LinkedIn](https://www.linkedin.com/in/abinivesh-m-883052380/) · abinivesh.1203@gmail.com
+<img src="https://github.com/abinivesh-m.png" width="160" alt="Abinivesh M" />
+
+</td>
+
+</tr>
+</table>
+
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,dart,cpp,sql,js,flutter,fastapi,postgres,sqlite,aws,vercel,docker,git,github,vscode,figma,postman,linux,bash&perline=16"/>
+</p>
+
+<details>
+  <summary><b>AI / ML & Agentic Systems</b></summary>
+  <p>Google Gemini API · LLM Integration · Prompt Engineering · Agentic Workflows · scikit-learn · ONNX · YOLO · MediaPipe · NVIDIA Nemotron 3 · Amazon Bedrock · Groq · Tavily · RAG</p>
+</details>
+
+<details>
+  <summary><b>Backend & Security</b></summary>
+  <p>FastAPI · REST APIs · SQLAlchemy · Pydantic · JWT · bcrypt · HMAC-SHA256 · Rate Limiting · CORS · CI/CD (GitHub Actions)</p>
+</details>
+
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abinivesh-m&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
+</p>
+
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinivesh-m&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FF69B4&area=true&area_color=3B82F6&hide_border=true"/>
+
+</p>
+
+
+
+<h2 align="center"> 🐍 Contribution Graph </h2>
+
+<p align="center">
+  <img src="https://github.com/abinivesh-m/abinivesh-m/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<!--
+To enable the snake animation:
+
+1. Create a GitHub Action in this repository.
+2. Use Platane/snk to generate the SVG every day.
+3. Commit the generated file into:
+   output/github-contribution-grid-snake.svg
+-->
+
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/abinivesh-m-883052380">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abinivesh-m">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:abinivesh.1203@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Abinivesh__M/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+
+<p align="center" >
+See you in the next commit 🚀
+</p>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:2563EB,100:1E3A8A&height=140&section=footer"/>
+</p>

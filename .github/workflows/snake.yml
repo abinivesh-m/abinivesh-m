@@ -1,0 +1,37 @@
+name: GitHub Contribution Grid Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs every day at midnight UTC
+  workflow_dispatch:       # lets you run it manually anytime
+
+jobs:
+  build:
+    name: Create Snake Grid
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create snake grid
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: abinivesh-m
+          color_snake: "#3B82F6"
+          color_dots: "#0D1117"
+          color_last_dot: "#60A5FA"
+
+      - name: Save snake grid to output folder
+        run: |
+          mkdir -p output
+          cp ${{ steps.snake.outputs.snake_grid_path }} output/github-contribution-grid-snake.svg
+
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git commit -m "Update snake animation" || echo "No changes to commit"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
