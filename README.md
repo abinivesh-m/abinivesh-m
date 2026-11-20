@@ -40,7 +40,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="profile.jpg" width="160" alt="Abinivesh M" />
+<img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/profile.jpg" width="160" height="160" alt="Abinivesh M" />
 
 </td>
 
