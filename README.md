@@ -53,6 +53,7 @@
 <p>
   📊 <b>CGPA:</b> 9.1 / 10 &nbsp;·&nbsp; <b>4th Semester</b><br />
   💻 <b>HackerRank Campus Crew</b> — running coding contests &amp; hackathons at SKCET<br />
+  🌐 **Portfolio:** [abinivesh-m.github.io](https://abinivesh-m.github.io)
   🏆 <b>3x Hackathon Winner</b> · <b>2x IIT Finalist &amp; Team Leader</b><br />
   📍 Namakkal, Tamil Nadu, India
 </p>
@@ -300,6 +301,13 @@
   </a>
   <br />
   <sub><b>Direct Collaboration</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://abinivesh-m.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-3B82F6?style=for-the-badge&amp;labelColor=0a0a0a&amp;logo=vercel&amp;logoColor=white" alt="" />
+  </a>
+  <br />
+  <sub><b>Live Portfolio</b></sub>
 </td>
 </tr>
 </table>
