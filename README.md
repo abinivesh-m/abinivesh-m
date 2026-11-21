@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a8a,100:3b82f6&amp;height=180&amp;section=header&amp;text=Abinivesh%20M&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Product%20Engineer%20%26%20SDE%20%C2%B7%20ECE%20%40%20SKCET&amp;descAlignY=62&amp;descSize=16" alt="Abinivesh M Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a8a,100:3b82f6&amp;height=180&amp;section=header&amp;text=Abinivesh%20M&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Product%20Engineer%20%7C%20SDE%20%C2%B7%20ECE%20%40%20SKCET&amp;descAlignY=62&amp;descSize=16" alt="Abinivesh M Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -285,7 +285,7 @@
 </td>
 <td align="center" width="220" style="padding: 16px;">
   <a href="https://leetcode.com/u/Abinivesh__M/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="60" height="60" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="60" height="60" />
     <br /><br />
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&amp;labelColor=0a0a0a&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
   </a>
