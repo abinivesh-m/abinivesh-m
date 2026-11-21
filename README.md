@@ -60,7 +60,7 @@
 </td>
 <td width="38%" align="center" valign="middle" style="padding: 12px;">
 
-  <img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/profile.jpg" alt="Abinivesh M" width="200" height="200" style="border-radius: 50%; border: 3px solid #3B82F6;" />
+  <img src="https://raw.githubusercontent.com/abinivesh-m/abinivesh-m/main/profile-circle.png" alt="Abinivesh M" width="210" height="210" />
 
 </td>
 </tr>
